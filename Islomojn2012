@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div>
+    <nav>
+      <ul>
+        <img src="logo.png" alt="">
+        <li><a class="wow" href="index.html">Home</a></li>
+        <li><a href="">Services</a></li>
+        <li><a href="">About</a></li>
+        <li><a href="">Pricing</a></li>
+        <li><a href="">Newsletter</a></li>
+        <li><a href="">Sign in Now</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="ciziq"></div>
+  <img src="slider-dec.png" width="500" height="400" class="kasal">
+  <img src="slider-left-dec.png" class="olma">\
+  <div class="text">Get The Latest App From <br>App Stores</div>
+  <div class="lorem">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis quaerat voluptates molestiae e <br>
+    ipsum iusto nesciunt tempora, quo aut possimus voluptatum hic quia.</div>
+  <div class="pm">Free Quote</div>
+  <div class="as">Free Quote</div>
+  <img src="services-right-dec.png" class="f2">
+  <div class="a1">Amazing</div>
+  <div class="a2">Services & Features For You</div>
+  <img src="heading-line-dec.png" class="aimg">
+  <div class="text1">If you need greatest collection of HTML templates for you business ,please visit <br>TooCSS Blog.
+    If you need to have a contact form PHP script, go to our contact page <br> for more information</div>
+  <div class="img01"><img src="service-icon-01.png"></div>
+  <div class="text01">App Maintenance</div>
+  <div class="tex">You are not allowed to redistribute <br> this template ZIP file on any other <br> website</div>
+  <div class="aa">Read More →</div>
+  <div class="img02"><img src="service-icon-02.png"></div>
+  <div class="img03"><img src="service-icon-03.png"></div>
+  <div class="img04"><img src="service-icon-04.png"></div>
+  <div class="border"></div>
+  <img src="dumaloq.png" class="dq">
+  <div class="si">Rocket Speed of App</div>
+  <div class="oi">You are allowed to use the Chain App <br>Dev HTML template, Feel free to <br>modify or edit this
+    layout</div>
+  <div class="r">Read More →</div>
+  <div class="a24">24/7 Help & Support</div>
+  <div class="lmm">Lorem ipsum dolor, sit amet <br>consectetur adipisicing elit. Dolorum maiores <br>maxime quia ut
+    provident quos accusantium.</div>
+  <div class="read">Read More →</div>
+  <div class="more">Read More →</div>
+  <div class="k26">Multi Workflow Idea</div>
+  <div class="doug">If this template is beneficial for you <br> work, please support us a little via <br>PayPal Thank
+    you</div>
+  <div class="about">About What We Do & Who We Are</div>
+  <img src="about-right-dec.png" class="img002">
+
+  <style>
+    .section {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 40px;
+      max-width: 100%;
+      overflow-x: hidden;
+    }
+
+    .text {
+      width: 50%;
+    }
+
+    .image {
+      width: 40%;
+    }
+
+    .image img {
+      width: 100%;
+      height: auto;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+    }
+  </style>
+
+  <div class="section">
+    <div class="text">
+      <h2>About <span style="color: blue;">What We Do</span> & Who We Are</h2>
+      <p>Lorem ipsum text...</p>
+      <p>Maintance Problems - 24/7 Support & Help</p>
+    </div>
+
+    <div class="image">
+      <img src="about-bg.jpg" alt="About Image">
+    </div>
+  </div>
+  <div class="start">Start 14-Day Free Trial</div>
+  <div class="ct">*No Credit Card Required</div>
+  <div class="stars">Check What <span style="color: blue;">The Clients Say</span> About Our App Dev</div>
+  <div class="tn">Lorem ipsum dolor sit amet consectetur adipisicing elit. In, laboriosam ratione consequuntur dolorum
+    quo <br>quas sunt veritatis molestiae ex tempora?</div>
+  <img src="Снимок экрана 2025-07-07 092248.png" class="grom">
+  <img src="Снимок экрана 2025-07-07 093953.png" class="berry">
+  <img src="client-image.jpg" class="cit">
+  <div class="cit1">David Martino</div>
+  <div class="cit2">CEO of David Company</div>
+  <div class="cit3">We Have The Best Pre-Order <span style="color: rgb(68, 68, 249);">Prices</span>You Can Get</div>
+  <img src="heading-line-dec.png" class="img11">
+  <div class="div">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quasi, ullam consequuntur! Delectus
+    eligendi molestias sed, sint <br>aperiam voluptatem ea ipsam natus harum.</div>
+  <div><img src="pricing-table-01.png" class="sd-image"></div>
+  <div class="class">
+    <div class="class-bg-img">
+      <p>Standard plan</p>
+      <div class="all"><span style="color: rgb(0, 0, 255);">Lorem Ipsum Dolores <br><br>20 TB of Storage
+        </span><br><br><span style="text-decoration: line-through;">Life-Time Support <br><br> Premium Add-Ons <br><br>
+          Fastest Network <br><br> More Options</span><br><br></div>
+    </div>
+  </div>
+  <div class="class2">
+    <div class="class-bg-img2">
+      <p>Business Plan App</p>
+      <div class="all"><span style="color: rgb(0, 0, 255);">Lorem Ipsum Dolores <br><br>50 TB of Storage
+        </span><br><br><span style="text-decoration: line-through;">Life-Time Support <br><br> Premium Add-Ons <br><br>
+          Fastest Network <br><br> More Options</span><br><br></div>
+    </div>
+  </div>
+  <div class="class3">
+    <div class="class-bg-img3">
+      <p>Premium Plan App</p>
+      <div class="all"><span style="color: rgb(0, 0, 255);">Lorem Ipsum Dolores <br><br>120 TB of Storage
+        </span><br><br><span style="text-decoration: line-through;">Life-Time Support <br><br> Premium Add-Ons <br><br>
+          Fastest Network <br><br> More Options</span><br><br></div>
+    </div>
+  </div>
+  <div class="border-text">Purchase This plan Now</div>
+  <div class="border-text2">Purchase This plan Now</div>
+  <button class="border-text3">Purchase This plan Now</button>
+  <div class="bg-image0">
+    <div class="class-bg-img4">
+      <p class="bg-text1"></p>
+    </div>
+  </div>
+  <div class="asas">Join Our Mailing List To Receive The News & <br>Latest Trends</div>
+  <div class="bp3">Email Address...</div>
+  <div class="jk"><input type="text" name="" id=""></div>
+  <div class="buzz">Subcribe Now ></div>
+  <div class="contact"><span style="font-size: 20px;
+  color: white;">Contact Us <br><br></span>Rio de Janeiro-RJ,22795-008, Brazil <br><br>010-020-0340 <br><br>
+    info@company.co About Us Home About Testimonials About Pricing Testimonials Pricing Useful Links Free Apps App Dev Team App Engine Digital Web Programming Normal Apps Development App News</div>
+  <div class="fy-bg"><span style="font-size: 20px;">About Us</span> <br><br>Home <span style="margin-left: 40px;">About
+      <br><br></span>Services <span style="margin-left: 24px;">Testimonials <br><br></span>About <span
+      style="margin-left: 40px;">Pricing</span><br><br>Testimonials <br><br>Pricing </div>
+  <div class="bg-logo"><span style="font-size: 20px;">Useful Links</span><br><br>Free Apps <span
+      style="margin-left: 30px;">App Dev Team <br><br>App Engine <span style="margin-left: 30px;">Digital Web
+        <br><br>Programming <span style="margin-left: 30px;">Normal Apps <br><br>Development <br><br>App
+          News</span></span></span></div>
+  <div class="brawl" style="font-size: 20px;">About Our Company </div><img src="white-logo.png" class="finally-bg">
+  <div class="lm1">Lorem ipsum dolor sit amet consectetur <br>adipisicing elit. Veniam enim architecto minus quas
+    <br>fugiat. Tenetur assumenda enim deleniti</div>
+    
+</body>
+
+</html>
